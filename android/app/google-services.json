@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "964001025136",
+    "project_id": "mobilepractice-e4c71",
+    "storage_bucket": "mobilepractice-e4c71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964001025136:android:d6a03c9e1be469049878b5",
+        "android_client_info": {
+          "package_name": "com.denisemimi.firebase_practice1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqUSe1XaXnxVB0xxE0vLahA8SmBEkH_6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964001025136:android:312ed66769be0df69878b5",
+        "android_client_info": {
+          "package_name": "com.denisemimi.mobile_firebasepractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqUSe1XaXnxVB0xxE0vLahA8SmBEkH_6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
